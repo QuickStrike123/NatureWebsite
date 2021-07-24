@@ -1,0 +1,25 @@
+body{
+
+    text-align: center;
+
+    background: darkturquoise;
+
+}
+
+.Img{
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+#section{
+
+    margin-right: 25px;
+
+    margin-left: 25px;
+
+    background-color: white;
+
+}
